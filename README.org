@@ -1,0 +1,5 @@
+#+title: RP2350 Blink
+#+author: Ian Kenney
+
+This repository  demonstrates a bare-metal implementation of the familiar LED-blink demo on the RP2350.
+It avoids the Pico C SDK and implements only what the example needs, making board startup and peripheral setup explicit.
